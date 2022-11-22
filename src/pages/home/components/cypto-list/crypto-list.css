@@ -1,0 +1,11 @@
+.coin-logo-small {
+    width: 70px;
+}
+
+.crypto-table {
+    text-align: left;
+}
+
+.table-header, .table-data-row {
+    border-bottom: 1px solid white;
+}

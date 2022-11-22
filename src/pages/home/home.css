@@ -1,0 +1,32 @@
+.coins-container{
+    width: 100%;
+    overflow-x: auto;
+}
+
+.pointer{cursor: pointer;}
+
+.coin-logo{
+    width: 150px;
+}
+
+.coin-logo-small{
+    width: 70px;
+}
+
+.coin-symbol{
+    text-transform: uppercase;
+
+}
+
+.text-green{
+    color:green;
+}
+
+.text-red {
+    color: red;
+}
+
+.prevNext{
+    font-size: 40px;
+    cursor: pointer;
+}
